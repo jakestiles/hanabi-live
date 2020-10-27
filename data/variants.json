@@ -25138,5 +25138,47 @@
       "Prism"
     ],
     "showSuitNames": true
+  },
+  {
+    "name": "Dizzy (6 Suits)",
+    "id": 1671,
+    "suits": [
+      "Red",
+      "Yellow",
+      "Green",
+      "Blue",
+      "Purple",
+      "Teal"
+    ]
+  },
+  {
+    "name": "Dizzy (5 Suits)",
+    "id": 1672,
+    "suits": [
+      "Red",
+      "Yellow",
+      "Green",
+      "Blue",
+      "Purple"
+    ]
+  },
+  {
+    "name": "Dizzy (4 Suits)",
+    "id": 1673,
+    "suits": [
+      "Red",
+      "Yellow",
+      "Green",
+      "Blue"
+    ]
+  },
+  {
+    "name": "Dizzy (3 Suits)",
+    "id": 1674,
+    "suits": [
+      "Red",
+      "Green",
+      "Blue"
+    ]
   }
 ]
