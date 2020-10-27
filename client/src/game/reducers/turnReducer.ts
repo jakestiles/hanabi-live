@@ -140,6 +140,11 @@ const nextTurn = (
 ) => {
   state.turnNum += 1;
 
+  // If the variant type is Dizzy and a card was played, invert play order
+  if (variant.indexOf( "Dizzy" ) != -1 and action.type === "play") {
+    state.playOrderInverted = !state.playOrderInverted;
+  }
+  
   if (turnRules.shouldPlayOrderInvert(characterID)) {
     state.playOrderInverted = !state.playOrderInverted;
   }
