@@ -239,6 +239,11 @@ One of each card per suit (e.g. 5 in total):
 * When players give a clue, they point at the cards clued, but say "quack" instead of a color or number.
 * This variant was invented by [Jack Gurev's](https://www.facebook.com/jack.gurev) group.
 
+### Dizzy
+
+* When a player successfully plays a card, turn order reverses.
+* When the end of the game is triggered by the last card being drawn, the team still gets a number of turns equal to the player count as normal. Because of turn order changing, those final turns may not be evenly distributed among all players.
+
 ### Throw It in a Hole
 
 * When players play a card, they do not flip it over like normal but instead place it face down in the center of the table.
