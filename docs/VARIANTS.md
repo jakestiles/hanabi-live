@@ -241,8 +241,8 @@ One of each card per suit (e.g. 5 in total):
 
 ### Dizzy
 
-* When a player successfully plays a card, turn order reverses.
-* When the end of the game is triggered by the last card being drawn, the team still gets a number of turns equal to the player count as normal. Because of turn order changing, those final turns may not be evenly distributed among all players.
+* When a player plays a card, turn order reverses.
+* When the end of the game is triggered by the last card being drawn, the team still gets a number of turns equal to the player count as normal. Because of order of play changing, those final turns may not be evenly distributed among all players.
 
 ### Throw It in a Hole
 
